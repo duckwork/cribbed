@@ -25,7 +25,7 @@ GPL'd).  Anyway, fun stuff.
 
 Okay, here's a list of what we have in this li'l crib:
 
-- a fork of [pltanton/net_widgets](https://github.com/pltanton/net_widgets)
+- ~~a fork of [pltanton/net_widgets](https://github.com/pltanton/net_widgets)~~ (not yet -- have to clean it up)
 - a fork of
   [gvalkov/awesome-ezconfig](https://github.com/gvalkov/awesome-ezconfig)
 - my own widgets:
