@@ -32,7 +32,9 @@ Okay, here's a list of what we have in this li'l crib:
     - little textboxes that report your `master_count` and `column_count`
       (more to come!)
     - a [Discordian calendar][] widget that uses `ddate`
+    - a mapping for the [siji][] programming font to a dictionary
 
 That's all for now, folks!
 
 [Discordian calendar]: https://en.wikipedia.org/wiki/Discordian_calendar
+[siji]: https://github.com/stark/siji
